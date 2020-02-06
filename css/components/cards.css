@@ -1,0 +1,23 @@
+.cards {
+  display: flex;
+  color: #f6c36e;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card {
+  height: 160px;
+  width: 240px;
+  margin: 20px;
+  padding: 15px;
+  box-shadow: 5px 5px 20px rgb(240, 240, 240);
+}
+
+.card a {
+  color: #f6c36e;
+}
+
+.card i {
+  font-size: 2em;
+  color: #f6c36e;
+}

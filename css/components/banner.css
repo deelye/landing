@@ -1,0 +1,29 @@
+.banner {
+  background-position: center;
+  background-size: cover;
+  padding: 200px;
+  color: white;
+  text-align: center;
+}
+
+.banner h1 {
+  font-size: 40px;
+}
+
+.banner p {
+  font-size: 24px;
+}
+
+.btn-register {
+  color: white;
+  font-family: Open-sans, sans-serif;
+  font-size: 12px;
+  border: 1px solid white;
+  border-radius: 30px;
+  padding: 8px 24px;
+}
+
+.btn-register:hover {
+  border: 2px solid white;
+  font-weight: bold;
+}

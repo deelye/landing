@@ -1,0 +1,55 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Importing all components file */
+@import url("components/banner.css");
+@import url("components/cards.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  color: #f6c36e;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Raleway', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.footer {
+  text-align: center;
+  background-color: #f6c36e;
+  color: white;
+  padding: 10px;
+  margin-top: 25px;
+}
+
+.footer p {
+  margin: 0;
+  padding-top: 5px;
+}
+
+i {
+  font-size: 1.75em;
+}
+
+.icon {
+  color: white;
+  padding: 5px;
+}
+
+
